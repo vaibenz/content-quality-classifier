@@ -1,0 +1,8 @@
+data/
+models/
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+results_quick/
+models_quick/
